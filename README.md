@@ -1,4 +1,4 @@
-# Presentation ompositionality
+# word2vec Presentation
 Paper presentation for DS-5899 Transformers in Theory and Practice
 
 Based on the paper "Efficient Estimation of Word Representations in Vector Space" https://arxiv.org/abs/1301.3781
